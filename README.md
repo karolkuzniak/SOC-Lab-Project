@@ -1,8 +1,8 @@
-SOC Lab Project
+## SOC Lab Project
 
 In today's cybersecurity landscape, understanding and implementing Security Operations Center (SOC) principles is crucial for both professionals and enthusiasts. This project aims to demonstrate how to build a functional SOC lab at home using accessible tools and technologies. By setting up this lab, you can simulate real-world scenarios, analyze potential threats, and enhance your cybersecurity skills in a controlled environment.
 
-The lab is structured into several key components, each designed to replicate an essential aspect of a SOC:
+## The lab is structured into several key components, each designed to replicate an essential aspect of a SOC:
 
 - pfSense: A robust open-source firewall for securing network traffic and managing access control.
 
